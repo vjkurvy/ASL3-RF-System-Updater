@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="images/asl3-rf-system-updater-banner.png"
-    alt="AllStar RF System Updater"
-    width="100%"
-  />
-</p>
 
 <p align="center">
   <strong>
@@ -219,7 +212,7 @@ cd ~
 Download:
 
 ```text
-sudo wget https://raw.githubusercontent.com/KD5FMU/ASL3-RF-System-Updater/refs/heads/main/install-asl3-rf-system-updater-v2.sh
+sudo wget https://raw.githubusercontent.com/vjkurvy/ASL3-RF-System-Updater/refs/heads/main/install-asl3-rf-system-updater-v2.sh
 ```
 
 You may download it directly from the GitHub repository or copy it to the ASL3 node using SCP, SFTP, a USB drive, or another file-transfer method.
@@ -818,15 +811,7 @@ Operators should periodically connect by SSH to review:
 * Disk-space usage
 * Services that failed after upgrading
 
-An RF updater is convenient, but it should not completely replace normal system administration and log review.
 
-## License
-
-GPL-3.0
-
-## Author
-
-Created for the AllStarLink and amateur-radio community by:
 
 **Freddie Mac — KD5FMU**
 **Ham Radio Crusader**
